@@ -1,0 +1,5 @@
+.env
+venv
+templates
+contacts.json
+password.txt
