@@ -15,17 +15,20 @@ This Python Flask application provides a simple UI for setting up and sending em
 1. **Clone/download the code** to your local machine
 2. **Install the dependencies**:
 
-# Create a new virtual environment
+### i. Create a new virtual environment
+
 ```bash
 python -m venv venv
 ```
 
-# Activate the new environment
+### ii. Activate the new environment
+
 ```bash
 venv\Scripts\activate
 ```
 
-# Install the dependencies from requirement.txt
+### iii. Install the dependencies from requirement.txt
+
 ```bash
 pip install -r requirements.txt
 ```
